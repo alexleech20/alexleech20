@@ -1,6 +1,6 @@
 ## Hey, I'm Alexander 👋🏽
 
-I'm a 23 year old Software engineer with a passion for frontend development and accessibility.
+I'm a 23 year old React Deevloper with a passion for frontend development and accessibility.
 
 - Check out my <a href="http://www.alexanderleech.co.uk" target="_blank">Website</a> to learn more about me (This is currently a work in progress).
 - Check out my <a href="https://www.linkedin.com/in/alexander-leech-96889817b/" target="_blank">LinkedIn.</a> 
