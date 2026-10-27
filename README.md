@@ -1,6 +1,6 @@
 ## Hey, I'm Alexander 👋🏽
 
-I'm a 25 year old React Developer with a passion for frontend development and accessibility.
+I'm a 26 year old React Developer with a passion for frontend development and accessibility.
 
 - Check out my <a href="http://www.alexanderleech.co.uk" target="_blank">Website</a> to learn more about me (This is currently a work in progress).
 - Check out my <a href="https://www.linkedin.com/in/alexander-leech-96889817b/" target="_blank">LinkedIn.</a> 
@@ -9,7 +9,7 @@ I'm currently in the process of upskilling to an 'AWS Certified Cloud Practition
 
 ### 📦 Toolbox
 
-**Frontend Development:** `React` `Typescript` `Javascript` `Material-UI` `Responsive Development` `Accessibility`
+**Frontend Development:** `React` `Typescript` `Javascript` `Axios` `Styled Components` `Material-UI` `Responsive Development` `Accessibility`
 
 **Version Control:** `Git` `Bitbucket` `ADO` `Git Kraken`
 
@@ -19,7 +19,7 @@ I'm currently in the process of upskilling to an 'AWS Certified Cloud Practition
 
 **Small experience with Testing:** `Lighthouse` `What font` `Axe` `NVDA`
 
-**Others:** `Worldpay` `SC Cleared & DBSS` `Drupal` `Scrum Master` `Jira` `Software Support Development` `Sysaid` `Bootstrap`
+**Others:** `Worldpay` `Stripe` `SC Cleared & DBSS` `Drupal` `Scrum Master` `Jira` `Software Support Development` `Sysaid` `ServiceNow ticketing` `Bootstrap`
 
 
 ## ？About me
