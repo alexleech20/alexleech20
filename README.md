@@ -7,6 +7,8 @@ I'm a 26 year old React Developer with a passion for frontend development and ac
 
 I'm currently in the process of upskilling to an 'AWS Certified Cloud Practitioner', I will hopefully be confident enough to take my exam soon.
 
+I have also just begun my Level 4 DevOps apprenticeship with QA in September 2026 as I would like to get more insight on that side of development. My current role required me to have proficiency in Fullstack development and fundamentals in AWS/ Azure, so this apprenticeship will benefit both me and any business.
+
 ### 📦 Toolbox
 
 **Frontend Development:** `React` `Typescript` `Javascript` `Axios` `Styled Components` `Material-UI` `Responsive Development` `Accessibility`
