@@ -1,11 +1,11 @@
 ## Hey, I'm Alexander 👋🏽
 
-I'm a 26 year old React Developer with a passion for frontend development and accessibility.
+I'm a 26 year old React Developer with a passion for frontend development, QA testing and accessibility.
 
 - Check out my <a href="http://www.alexanderleech.co.uk" target="_blank">Website</a> to learn more about me (This is currently a work in progress).
 - Check out my <a href="https://www.linkedin.com/in/alexander-leech-96889817b/" target="_blank">LinkedIn.</a> 
 
-I'm currently in the process of upskilling to an 'AWS Certified Cloud Practitioner', I will hopefully be confident enough to take my exam soon.
+I'm currently in the process of upskilling to an 'AWS Certified Cloud Practitioner', I will hopefully be confident enough to take my exam soon. I am also palying round with unit-tests currently within my currency calculator app (TDS Test), feel free to have a look.
 
 I have also just begun my Level 4 DevOps apprenticeship with QA in September 2026 as I would like to get more insight on that side of development. My current role required me to have proficiency in Fullstack development and fundamentals in AWS/ Azure, so this apprenticeship will benefit both me and any business.
 
